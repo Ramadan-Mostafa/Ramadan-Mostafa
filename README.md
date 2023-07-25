@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ramadan-Mostafa
 - 👀 I’m interested in Software Test Automation
-- 🌱 I’m currently learning Python
 - 📫 How to reach me: Linkedin: https://www.linkedin/in/r-mostafa
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
